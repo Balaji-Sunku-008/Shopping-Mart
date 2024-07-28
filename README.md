@@ -1,1 +1,2 @@
-# Shopping-Mart
+# MiniMarket
+Online Shopping
